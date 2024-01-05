@@ -108,7 +108,7 @@ export default function App() {
         setSearch(transcript);
       } else {
         setVoicesearch(false);
-        alert('Please try again for voice search');
+        alert('Please try again for vo  ice search');
       }
     };
   };
